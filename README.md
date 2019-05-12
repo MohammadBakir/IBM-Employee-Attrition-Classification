@@ -8,13 +8,8 @@ This is still under construction, and we will be uploading aditional material du
 
 # Index
 
-## [1. Introduction and database cleaning]()
+## [1. Introduction and database cleaning](https://github.com/MohammadBakir/IBM-Employee-Attrition-Classification/blob/master/IBM%20Attrition%20Classification%20-%20EDA.ipynb)
 
-## [2. Feature extraction]()
 
-## [3. Visualizing graphs]()
 
-## [4. Data augmentation]()
-
-## [5. Machine Learning]()
-
+## [2. Modeling and Visualization](https://github.com/MohammadBakir/IBM-Employee-Attrition-Classification/blob/master/IBM%20Attrition%20Classification%20-%20Modeling.ipynb)
